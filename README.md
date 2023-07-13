@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEE86F&section=header"/>
 ## Olá, seja bem-vindo!   
 - 👋  Me chamo Laura e tenho 22 anos!
 - 🐛  Atualmente estou no 2º semestre de Análise e Desenvolvimento de Sistemas e fazendo um Curso de Programador de Sistemas chamado Jovem Programador!
@@ -18,3 +19,4 @@
   <img align="center"  alt="mysql" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEE86F&section=footer"/>
