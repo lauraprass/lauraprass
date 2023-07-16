@@ -12,12 +12,22 @@
 </div>  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraprass&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ##
 ## Tecnologias que utilizo:
+<div align="center" >
   <img align="center"  alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center"  alt="Sql" src="https://cdn.discordapp.com/emojis/804440507438727179.webp?size=56&quality=lossless">
   <img align="center"  alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center"  alt="mysql" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   
+  <img align="center"  alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEE86F&section=footer"/>
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/lauraprass/lauraprass/blob/output/github-contribution-grid-snake.svg)
+
+  
+</div>
