@@ -22,6 +22,7 @@
   <img align="center"  alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   
 </div>
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraprass&layout=compact&theme=dracula)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEE86F&section=footer"/>
 
 
