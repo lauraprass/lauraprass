@@ -1,34 +1,95 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEE86F&section=header"/>
 
-## Olá, seja bem-vindo!   
+[![Github](https://img.shields.io/github/followers/lauraprass?label=Follow&style=social)](https://github.com/lauraprass)
+
+  <h1>
+    Hello, world! Welcome to my profile!👩🏻‍💻
+  </h1> 
+
 - 👋  Me chamo Laura e tenho 22 anos!
 - 🐛  Atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas!
 - 👀  Estou interessada em aprender as inovações que o mundo de tecnologia traz para nós, por meio das partes de análise, códigos, banco de dados,  levantamento e análise de Requisitos do Sistema e muito mais!
 - 💞️  Estou procurando uma oportunidade de estágio para ter conhecimento do mercado e contribuir na minha formação profissional, onde posso demonstrar minha dedicação e oferecer todo meu entusiasmo e força de trabalho! 
 - 📫  Como chegar até mim: Linkedin -> lauraprass | Gmail -> lauraprassss1@gmail.com 
 
-<div style="display: inline_block"><br>
- <img align="center"  alt="Gif"  heigth="120" width="120"  src="https://cdn.discordapp.com/attachments/1011116180402081852/1128760457801515120/Design_sem_nome_1.gif">
-</div>  
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraprass&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ##
-## Tecnologias que utilizo:
-<div align="center" >
-  <img align="center"  alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center"  alt="Sql" src="https://cdn.discordapp.com/emojis/804440507438727179.webp?size=56&quality=lossless">
-  <img align="center"  alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center"  alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   
-</div>
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraprass&layout=compact&theme=dracula)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEE86F&section=footer"/>
-
 
 <div align="center">
-
-  ![Snake animation](https://github.com/lauraprass/lauraprass/blob/output/github-contribution-grid-snake.svg)
-
-  
+  <h1>🌺Tecnologias que tenho conhecimento🌺</h1>
+  <table>
+    <tr>
+      <td>IDEs</td>
+      <td>
+        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" width="40" height="40">
+        <img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" width="40" height="40">
+<!--    <br> -->
+        <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" width="40" height="40">
+        <img src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" width="40" height="40">
+      </td>
+    </tr>
+    <tr>
+      <td>Linguagens</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td>Banco de Dados</td>
+      <td>
+         <img src="https://th.bing.com/th/id/R.0f423f0c34a631f78acbd7884864d668?rik=bl6Imw%2bHhnmFBA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fmysql-workbench-icon.png&ehk=n3DZDWOTg3mAvgFHYuINFim75oqbVU4610FTMpTpbNk%3d&risl=&pid=ImgRaw&r=0" width="40" height="40">
+        <img src="https://cdn.discordapp.com/emojis/804440507438727179.webp?size=56&quality=lossless">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://static-00.iconduck.com/assets.00/dbeaver-icon-512x506-p5mxyxd5.png" width="40" height="40">
+      </td>
+    </tr>
+    <tr>
+      <td>Ferramenta de Design de Interface Gráfica</td>
+      <td>
+        <img src="https://benjaminjamesgriffiths.github.io/assets/images/technical-skills/qt-designer-logo.png" width="40" height="40">
+      </td>
+    </tr>
+    <tr>
+      <td>Plataforma de Design Gráfico </td>
+      <td>
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td>Plataforma de Design de Interface de Usuário </td>
+      <td>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+      </td>
+    <tr>
+    <tr>
+      <td>Versionamento</td>
+      <td>
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <h1>📝Métodos de organização tenho conhecimento📝</h1>
+  <table>
+    <tr>
+      <td>Gestão de Projetos</td>
+      <td>
+        <img src="https://www.kindpng.com/picc/m/53-539760_scrum-logo-hd-png-download.png" width="80" height="80">
+      </td>
+    </tr>
+    <tr>
+     <td>Controle de Produção/Gestão de Tarefas</td>
+      <td>
+        <img src="https://static.vecteezy.com/system/resources/previews/002/837/593/large_2x/kanban-lean-method-line-icon-vector.jpg" width="80" height="80">
+      </td>
+    </tr>
+  </table>
+</div>
+
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraprass&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
