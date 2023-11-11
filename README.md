@@ -15,6 +15,12 @@
 ##
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraprass&theme=vision-friendly-dark&layout=donut" alt="Top Langs" />
+</div>
+
+##
+
+<div align="center">
   <h1>🌺Tecnologias que tenho conhecimento🌺</h1>
   <table>
     <tr>
@@ -91,6 +97,4 @@
 </div>
 
 ##
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraprass&theme=vision-friendly-dark&layout=donut" alt="Top Langs" />
-</div>
+
